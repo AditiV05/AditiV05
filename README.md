@@ -34,8 +34,8 @@ Third-year CS student. I work at the intersection of full-stack development and 
 #### 📊 GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats-beta-mauve-81.vercel.app/api?username=AditiV05&show_icons=true&theme=nord&hide_border=true&include_all_commits=true" />
-  <img src="https://github-readme-stats-beta-mauve-81.vercel.app/api/top-langs/?username=AditiV05&layout=compact&theme=nord&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats-beta-mauve-81.vercel.app/api?username=AditiV05&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-beta-mauve-81.vercel.app/api/top-langs/?username=AditiV05&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
 </p>
 
 ---
