@@ -1,6 +1,6 @@
 ### Hi, I'm Aditi
 
-Third-year CS student. I work at the intersection of full-stack development and AI systems — search, retrieval, and the infrastructure that makes AI products actually usable.
+Final-year CS student. I work at the intersection of full-stack development and AI systems — search, retrieval, and the infrastructure that makes AI products actually usable.
 
 ---
 
