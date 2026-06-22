@@ -45,3 +45,5 @@ Final-year CS student working at the intersection of full-stack development and 
 </p>
 
 ---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/AditiV05)
