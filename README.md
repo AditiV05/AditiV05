@@ -4,7 +4,7 @@ Final-year CS student working at the intersection of full-stack development and 
 
 ---
 
-#### 🚀 Latest project
+#### 🚀 Projects
 
 **[DocuMind](https://documind-web-mu.vercel.app)** — a production RAG app: upload a document, ask questions, get answers streamed back in real time, grounded in the actual source.
 
@@ -15,6 +15,18 @@ Final-year CS student working at the intersection of full-stack development and 
 *Stack:* Next.js · TypeScript · FastAPI · Postgres + pgvector · OpenAI · Supabase · Langfuse
 
 🔗 **Live:** documind-web-mu.vercel.app  ·  **Code:** [frontend](https://github.com/AditiV05/documind-web) · [backend](https://github.com/AditiV05/documind-api)
+
+<br />
+
+**[Familiar](https://familiar-blog.vercel.app)** — a Medium-style blogging platform. A quiet place to read, write, and think out loud.
+
+- Full auth surface — JWT sessions, Google OAuth with account linking, email verification and password reset with single-use expiring tokens
+- Threaded conversations, likes, bookmarks, follows, and in-app notifications
+- Auth endpoints return identical responses whether or not an account exists, so they can't be used to discover who's registered
+
+*Stack:* React · Vite · Node.js · Express · MongoDB · Passport · Resend
+
+🔗 **Live:** familiar-blog.vercel.app  ·  **Code:** [GitHub](https://github.com/AditiV05/Familiar)
 
 ---
 
@@ -29,6 +41,7 @@ Final-year CS student working at the intersection of full-stack development and 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Shipped with** *(building DocuMind)*  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,6 +52,7 @@ Final-year CS student working at the intersection of full-stack development and 
 ---
 
 #### 📊 GitHub stats
+
 <p align="left">
   <img src="https://github-readme-stats-beta-mauve-81.vercel.app/api?username=AditiV05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img src="https://github-readme-stats-beta-mauve-81.vercel.app/api/top-langs/?username=AditiV05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
