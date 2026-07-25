@@ -1,6 +1,6 @@
 ### Hi, I'm Aditi 👋
 
-Final-year BCA student working at the intersection of full-stack development and AI systems — search, retrieval, and the infrastructure that makes AI products actually usable.
+Final-year CS student working at the intersection of full-stack development and AI systems — search, retrieval, and the infrastructure that makes AI products actually usable.
 
 🌐 [aditivashishtha.com](https://aditivashishtha.com)
 
