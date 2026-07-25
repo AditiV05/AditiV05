@@ -1,4 +1,5 @@
-### Hi, I'm Aditi 👋
+### Hi, I'm Aditi 👋 
+🌐 aditivashishtha.com
 
 Final-year CS student working at the intersection of full-stack development and AI systems — search, retrieval, and the infrastructure that makes AI products actually usable.
 
