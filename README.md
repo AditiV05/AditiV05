@@ -28,6 +28,16 @@ Final-year CS student working at the intersection of full-stack development and 
 
 🔗 **Live:** familiar-blog.vercel.app  ·  **Code:** [GitHub](https://github.com/AditiV05/Familiar)
 
+<br />
+
+**[a11y-agent](https://github.com/AditiV05/a11y-agent)** — an open-source agent that finds accessibility problems on a page, fixes them, and verifies its own work.
+- Detect → fix → verify loop: axe-core detects, the LLM writes the fix, axe-core re-scans to confirm — retrying once with the error as feedback
+- The model does judgment only; it never decides what's broken or whether its fix worked
+- Three verification tiers reported separately instead of one flattering number
+
+*Stack:* Python · Playwright · axe-core · OpenAI (text + vision)
+🔗 **Code:** [GitHub](https://github.com/AditiV05/a11y-agent)  ·  MIT
+
 ---
 
 #### 💻 Tech I work with
