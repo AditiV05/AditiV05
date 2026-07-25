@@ -1,14 +1,14 @@
-### Hi, I'm Aditi 👋 
-🌐 aditivashishtha.com
+### Hi, I'm Aditi 👋
 
-Final-year CS student working at the intersection of full-stack development and AI systems — search, retrieval, and the infrastructure that makes AI products actually usable.
+Final-year BCA student working at the intersection of full-stack development and AI systems — search, retrieval, and the infrastructure that makes AI products actually usable.
+
+🌐 [aditivashishtha.com](https://aditivashishtha.com)
 
 ---
 
 #### 🚀 Projects
 
 **[DocuMind](https://documind-web-mu.vercel.app)** — a production RAG app: upload a document, ask questions, get answers streamed back in real time, grounded in the actual source.
-
 - Hybrid retrieval — vector + keyword search fused with Reciprocal Rank Fusion
 - Document-scoped queries, so it's safe with multiple users' files
 - Streaming answers + LLM observability with Langfuse
@@ -20,7 +20,6 @@ Final-year CS student working at the intersection of full-stack development and 
 <br />
 
 **[Familiar](https://familiar-blog.vercel.app)** — a Medium-style blogging platform. A quiet place to read, write, and think out loud.
-
 - Full auth surface — JWT sessions, Google OAuth with account linking, email verification and password reset with single-use expiring tokens
 - Threaded conversations, likes, bookmarks, follows, and in-app notifications
 - Auth endpoints return identical responses whether or not an account exists, so they can't be used to discover who's registered
@@ -37,6 +36,7 @@ Final-year CS student working at the intersection of full-stack development and 
 - Three verification tiers reported separately instead of one flattering number
 
 *Stack:* Python · Playwright · axe-core · OpenAI (text + vision)
+
 🔗 **Code:** [GitHub](https://github.com/AditiV05/a11y-agent)  ·  MIT
 
 ---
@@ -54,11 +54,12 @@ Final-year CS student working at the intersection of full-stack development and 
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Shipped with** *(building DocuMind)*  
+**Shipped with** *(building DocuMind & a11y-agent)*  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ---
 
