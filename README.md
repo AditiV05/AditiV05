@@ -70,6 +70,3 @@ Final-year CS student working at the intersection of full-stack development and 
   <img src="https://github-readme-stats-beta-mauve-81.vercel.app/api/top-langs/?username=AditiV05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
----
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/AditiV05)
